@@ -66,7 +66,7 @@ export default function RecordingMobile({
             actionItemOpen ? 'action-btn-active' : 'action-btn'
           }`}
         >
-          todo's
+          Dewies
         </button>
       </div>
       <div className="w-full">
@@ -122,7 +122,7 @@ export default function RecordingMobile({
                   }}
                   href="/dashboard/action-items"
                 >
-                  View All dewies
+                  View All Dewies
                 </Link>
               </div>
             </div>{' '}

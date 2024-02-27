@@ -78,7 +78,7 @@ export default function RecordingDesktop({
         </div>
         <div className="text-center">
           <h1 className="text-xl leading-[114.3%] tracking-[-0.75px] text-dark lg:text-2xl xl:text-[30px]">
-            dewies
+            Dewies
           </h1>
         </div>
       </div>
