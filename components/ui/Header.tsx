@@ -17,7 +17,7 @@ export default async function Header() {
             className="h-5 w-5 md:h-8 md:w-8"
           />
           <h1 className="text-xl font-medium text-[#25292F] md:text-3xl">
-            NotesGPT
+            Dewy
           </h1>
         </Link>
         {/* buttons */}
@@ -34,7 +34,7 @@ export default async function Header() {
                 href={'/dashboard/action-items'}
                 className="hidden cursor-pointer text-lg text-dark md:inline-block lg:text-xl"
               >
-                Action Items
+                Dewies
               </Link>
               <UserNav
                 image={user.imageUrl}
